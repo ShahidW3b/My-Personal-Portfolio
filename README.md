@@ -5,7 +5,7 @@ My personal protfoio is a fully responsive website, responsive for all devices, 
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure you have met the following requirement:
 
 * Git must be installed on your operating system.
 
