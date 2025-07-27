@@ -13,15 +13,15 @@
 
 ### Demo Screeshots
 
-![My Personal Portfolio Demo](./readme-images/Desktop1.png "Desktop Demo")
+![My Personal Portfolio Demo](./assets/images/port2.png "Desktop Demo")
 
 ### Prerequisites
 
-Ensure you have the following installed to run the project locally:
-	•	Git
+Ensure you have the following installed to run the project locally: <br>
+	•	Git <br>
 	•	A web browser (e.g., Chrome, Firefox, Safari)
 
-
+<br>
 ### Run Locally
 
 If you’d like to clone and run this portfolio website locally for development or review, follow the steps below:<br>
