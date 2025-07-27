@@ -1,32 +1,40 @@
-# Personal portfolio
+ <div align="center">
 
-My personal protfoio is a fully responsive website, responsive for all devices, built using HTML, CSS, and JavaScript.
+ <h2 align="center">Shahab Shahid - Personal Portfolio Website</h2>
+
+  This portfolio serves as a digital identity for Shahab Shahid,showcasing work in full-stack development, AI research, and cybersecurity. <br> 
+  The site is optimized for performance, accessibility, and responsiveness across all devices. <br> build using HTML, CSS, and JavaScript.
+
+  <a href="https://shahidportfoli3.netlify.app"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![My Personal Portfolio Demo](./readme-images/Desktop1.png "Desktop Demo")
+
+### Prerequisites
+
+Ensure you have the following installed to run the project locally:
+	•	Git
+	•	A web browser (e.g., Chrome, Firefox, Safari)
 
 
-## Prerequisites
+### Run Locally
 
-Before you begin, ensure you have met the following requirement:
-
-* Git must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
+If you’d like to clone and run this portfolio website locally for development or review, follow the steps below:<br>
+Step 1: Clone the Repository;
 
 ```bash
-sudo git https://github.com/Shahab00S
+sudo git clone https://github.com/ShahidW3b/portfolio.git
+cd portfolio
 ```
+Step 2: Open the Project
 
-Windows:
+You can now open the project folder in your preferred code editor (e.g., VS Code).
 
-```bash
-git clone https://github.com/Shahab00S
-```
+Step 3: Launch in Browser
 
-## Contact
-
-If you want to contact me you can reach me at shahid.kontakt@gmail.com or +93 708080639
-
-
+Simply open the index.html file in any modern web browser to view the portfolio locally.
