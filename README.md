@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![My Personal Portfolio Demo](./assets/images/demo.png "Desktop Demo")
+![My Personal Portfolio Demo](./assets/images/Demo.png "Desktop Demo")
 
 ### Prerequisites
 
