@@ -14,27 +14,3 @@
 ### Demo Screeshots
 
 ![My Personal Portfolio Demo](./assets/images/Demo.png "Desktop Demo")
-
-### Prerequisites
-
-Ensure you have the following installed to run the project locally: <br>
-	•	Git <br>
-	•	A web browser (e.g., Chrome, Firefox, Safari)
-
-<br>
-### Run Locally
-
-If you’d like to clone and run this portfolio website locally for development or review, follow the steps below:<br>
-Step 1: Clone the Repository;
-
-```bash
-sudo git clone https://github.com/ShahidW3b/portfolio.git
-cd portfolio
-```
-Step 2: Open the Project
-
-You can now open the project folder in your preferred code editor (e.g., VS Code).
-
-Step 3: Launch in Browser
-
-Simply open the index.html file in any modern web browser to view the portfolio locally.
