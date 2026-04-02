@@ -1,4 +1,4 @@
-# Shahab Shahid – Personal Portfolio Website
+# Shahabuddin Shahid – Personal Portfolio Website
 
 This portfolio is a lightweight web application built using **HTML, CSS, and JavaScript**, showcasing projects, research, and technical skills in **full-stack development, artificial intelligence, and cybersecurity**.
 
