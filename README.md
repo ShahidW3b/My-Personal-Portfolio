@@ -1,16 +1,43 @@
- <div align="center">
+# Shahab Shahid – Personal Portfolio Website
 
- <h2 align="center">Shahab Shahid - Personal Portfolio Website</h2>
+This portfolio is a lightweight web application built using **HTML, CSS, and JavaScript**, showcasing projects, research, and technical skills in **full-stack development, artificial intelligence, and cybersecurity**.
 
-  This portfolio serves as a digital identity for Shahab Shahid,showcasing work in full-stack development, AI research, and cybersecurity. <br> 
-  The site is optimized for performance, accessibility, and responsiveness across all devices. <br> build using HTML, CSS, and JavaScript.
+It serves as a central platform to present academic work, practical projects, and professional interests in a clear and structured format.
 
-  <a href="https://shahidportfoli3.netlify.app"><strong>➥ Live Demo</strong></a>
+---
 
-</div>
+## 📸 Preview
 
-<br />
+[➥ Live Demo](https://shahidportfoli3.netlify.app)
 
-### Demo Screeshots
+![Preview](./assets/images/Demo.png)
 
-![My Personal Portfolio Demo](./assets/images/Demo.png "Desktop Demo")
+---
+
+## 🛠️ Technologies
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📱 Features
+
+- Responsive and modern design  
+- Clean and minimal interface  
+- Project and research showcase  
+
+---
+
+## 📂 Structure
+
+/project-root <br>
+├── index.html <br>
+└── assets/  
+
+---
+
+## 📄 License
+
+MIT License
